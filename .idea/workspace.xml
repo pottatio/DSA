@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c1c4e8b-e2a5-4bae-9e7d-94ef21125045" name="Changes" comment="Added medium of sorted array program">
-      <change afterPath="$PROJECT_DIR$/src/duplicate.java" afterDir="false" />
+    <list default="true" id="8c1c4e8b-e2a5-4bae-9e7d-94ef21125045" name="Changes" comment="Added find duplicate of sorted array program">
+      <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,16 +29,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/valkyine/IdeaProjects/DSA"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/valkyine/IdeaProjects/DSA&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.duplicate">
+}</component>
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSort" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.duplicate" />
         <item itemvalue="Application.Main" />
       </list>
@@ -81,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656580261414</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added find duplicate of sorted array program">
+      <created>1656647201176</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656647201176</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added medium of sorted array program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added medium of sorted array program" />
+    <MESSAGE value="Added find duplicate of sorted array program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added find duplicate of sorted array program" />
   </component>
 </project>
