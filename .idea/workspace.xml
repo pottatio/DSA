@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c1c4e8b-e2a5-4bae-9e7d-94ef21125045" name="Changes" comment="Added find duplicate of sorted array program">
-      <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
+    <list default="true" id="8c1c4e8b-e2a5-4bae-9e7d-94ef21125045" name="Changes" comment="Added Quick Sort of array program">
+      <change afterPath="$PROJECT_DIR$/src/Common_elements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,14 @@
     &quot;last_opened_file_path&quot;: &quot;/home/valkyine/IdeaProjects/DSA&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QuickSort">
+  <component name="RunManager" selected="Application.Common_elements">
+    <configuration name="Common_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Common_elements" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DSA" />
@@ -60,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Common_elements" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.duplicate" />
         <item itemvalue="Application.Main" />
@@ -96,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656647201176</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Quick Sort of array program">
+      <created>1656691983181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656691983181</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +130,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added medium of sorted array program" />
     <MESSAGE value="Added find duplicate of sorted array program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added find duplicate of sorted array program" />
+    <MESSAGE value="Added Quick Sort of array program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Quick Sort of array program" />
   </component>
 </project>
