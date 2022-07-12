@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c1c4e8b-e2a5-4bae-9e7d-94ef21125045" name="Changes" comment="Added common elements of array program">
-      <change afterPath="$PROJECT_DIR$/src/First_repeating_element.java" afterDir="false" />
+    <list default="true" id="8c1c4e8b-e2a5-4bae-9e7d-94ef21125045" name="Changes" comment="Added First repeating element program">
+      <change afterPath="$PROJECT_DIR$/src/First_non_repeating.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     &quot;last_opened_file_path&quot;: &quot;/home/valkyine/IdeaProjects/DSA&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.First_repeating_element">
+  <component name="RunManager" selected="Application.First_non_repeating">
     <configuration name="Common_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Common_elements" />
       <module name="DSA" />
@@ -45,15 +44,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="First_repeating_element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="First_repeating_element" />
+    <configuration name="First_non_repeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First_non_repeating" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="First_repeating_element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First_repeating_element" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.First_non_repeating" />
         <item itemvalue="Application.First_repeating_element" />
         <item itemvalue="Application.Common_elements" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.duplicate" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657568513374</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added First repeating element program">
+      <created>1657649107364</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657649107364</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +153,7 @@
     <MESSAGE value="Added find duplicate of sorted array program" />
     <MESSAGE value="Added Quick Sort of array program" />
     <MESSAGE value="Added common elements of array program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added common elements of array program" />
+    <MESSAGE value="Added First repeating element program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added First repeating element program" />
   </component>
 </project>
